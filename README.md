@@ -4,6 +4,6 @@ inventory management, equipment borrowing, monitoring, tracking and reporting fe
 be a web-based system with a user-friendly GUI to support Senior Technician (Administrator), Technician
 and Student. Their usages of the system are identified as follows:
 
-• Student: equipment reservation, check personal borrowing records__
-• Technician: inventory management, handle check-in/out of equipment, lookup overdue items__
-• Senior Technician: check the analytic & report, account management__
+• Student: equipment reservation, check personal borrowing records <br />
+• Technician: inventory management, handle check-in/out of equipment, lookup overdue items <br />
+• Senior Technician: check the analytic & report, account management <br />
